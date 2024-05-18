@@ -1,0 +1,2 @@
+# MicroBlogHub_SubscriptionService
+Subscription service for MicroBlogHub
